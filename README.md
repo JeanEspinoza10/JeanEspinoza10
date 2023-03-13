@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Jean Espinoza, bachiller en Ingenieria Mecatronica con conocimientos en desarrollo web, APis.Este es mi perfil de Github.
+Soy Jean Espinoza, bachiller en Ingenieria Mecatronica con conocimientos en desarrollo web y de APIS REST. Este es mi perfil de Github.
 
 ## Acerca de mí
 
