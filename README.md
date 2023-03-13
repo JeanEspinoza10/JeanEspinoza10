@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Jean Espinoza, bachiller en Ingenieria Mecatronica, y este es mi perfil de Github.
+Soy Jean Espinoza, bachiller en Ingenieria Mecatronica con conocimientos en desarrollo web, APis.Este es mi perfil de Github.
 
 ## Acerca de mí
 
@@ -12,5 +12,6 @@ Si quieres saber más sobre mis o mis proyectos, no dudes en comunicarte por el 
 ## Habilidades
 A continuacion detallo algunas habilidades que estoy desarrollando mediante los proyectos
 - Python programacion orientada a objetos.
-- Tecnologias aplicadas al desarrollo front end:  Html, CSS, JavaScript  y algunos frameworks React
-- ![img_4286a-10x10](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
+- Tecnologias de front-end:  Html, CSS, JavaScript  y frameworks React.
+- Tecnologias de back-end: Flask, Django y DjangoRestFramework.
+
