@@ -4,7 +4,7 @@ Soy Jean Espinoza, bachiller en Ingenieria Mecatronica, y este es mi perfil de G
 
 ## Acerca de mí
 
-Me apasiona estar siempre aprendiendo sobre temas relacionados a la tecnologia y su diferentes aplicaciones.
+Me apasiona estar siempre aprendiendo sobre temas relacionados a la tecnologia y su diferentes aplicaciones :grinning:.
 Siempre dispuesto a buscar nuevas formas de aprender y crecer profesionalmente. 
 En mis tiempos libres practico futbol y juego al poker. 
 Si quieres saber más sobre mis o mis proyectos, no dudes en comunicarte por el correo espinoza.camargo.jean.carlos@gmail.com
