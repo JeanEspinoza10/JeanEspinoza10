@@ -1,6 +1,7 @@
 # Backend | Data Engineer | Mecatrónico
 
 Soy Jean Espinoza, bachiller en Ingenieria Mecatronica con conocimientos en desarrollo web y de APIS REST. Este es mi perfil de Github.
+Este es un texto en <span style="color: blue; font-weight: bold;">negrita y azul</span>.
 
 ## Acerca de mí
 
