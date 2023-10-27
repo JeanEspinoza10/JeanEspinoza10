@@ -14,5 +14,5 @@ Si quieres saber más sobre mis o mis proyectos, no dudes en comunicarte por el 
 A continuacion detallo algunas habilidades que estoy desarrollando mediante los proyectos
 - Python programacion orientada a objetos.
 - Tecnologias de front-end:  Html, CSS, JavaScript  y frameworks React.
-- Tecnologias de back-end: Flask, Django y DjangoRestFramework.
+- Tecnologias de back-end: Flask, Django, DjangoRestFramework y Node JS.
 
