@@ -7,7 +7,7 @@ Si quieres saber más sobre mis o mis proyectos, no dudes en comunicarte por el 
 
 ¡Gracias por visitar mi perfil!
 
-## Habilidades
+## Habilidades Técnicas
 A continuacion detallo algunas habilidades que estoy desarrollando mediante los proyectos
 - Lenguajes de Programación: __Python__ - __JavaScript__ - __SQL__
 - Frameworks Webs: __HTML5__ - __CSS__ - __NodeJs__ - __React__ - __Flask__ - __Django__
