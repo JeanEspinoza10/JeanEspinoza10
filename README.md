@@ -9,7 +9,8 @@ Si quieres saber más sobre mis o mis proyectos, no dudes en comunicarte por el 
 
 ## Habilidades
 A continuacion detallo algunas habilidades que estoy desarrollando mediante los proyectos
-- Python programacion orientada a objetos.
-- Tecnologias de front-end:  Html, CSS, JavaScript  y frameworks React.
-- Tecnologias de back-end: Flask, Django, DjangoRestFramework y Node JS.
+- Lenguajes de Programación: __Python__ - __JavaScript__ - __SQL__
+- Frameworks Webs: __HTML5__ - __CSS__ - __NodeJs__ - __React__ - __Flask__ - __Django__
+- Base de datos: __SQL Server__ - __PostgreSQL__ - __Oracle__ - __MongoDB__
+- Servicios Cloud: __Microsoft Azure__ - __Amazon Web Service__
 
